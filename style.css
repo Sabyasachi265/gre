@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(27, 151, 93);
+  width: 350px;
+  height: 300px; 
+}
+#wow  
+{
+  color: rgb(204, 35, 35);
+}
+.Nice
+{
+  font-size: 40px;
+}
+.deez
+{
+  font-size:48px;
+}
+.h31{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 14px;
+  color: rgb(30, 173, 142);
+  padding: 6px;
+  border-radius: 10px;
+  background-color: rgb(25, 17, 75);
+}
